@@ -1,7 +1,7 @@
 # Arseny Kornilov
 - Github: [@jsarseny](https://github.com/jsarseny)
 
-#### JavaScript Web Fullstack
+#### Forward technologies:
 - TypeScript
 - React
 - NodeJS
