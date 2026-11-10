@@ -1,7 +1,7 @@
 # Arseny Kornilov
 
 ### About
-Hello! I am a 20 y.o fullstack web developer from Ekaterinburg, Russia, specializing in React / Next and NestJS. I also develop Telegram bots of any complexity: on the Telegram Bot API, with WebApp and even Telegram Database Library (TDLib)
+Hello! I am a 20 y.o fullstack web developer from Ekaterinburg, Russia, specializing in React / Next and NestJS
 
 ### Contact me
 Telegram: <a href="https://t.me/jsarseny">@jsarseny</a><br>
